@@ -1,4 +1,4 @@
-# ItemitemCF
+# ItemCF
  Implementing the item-based collaborative filtering in python，which is a classical recommendation algorithm.
 ## data
  rating.csv is the rating data from [MovieLens](https://grouplens.org/datasets/movielens/)
